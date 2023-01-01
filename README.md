@@ -4,7 +4,7 @@ Snake Game using Lua and Love 2d engine
 ## How to play?
 - Download the repository in the form of a zip file.
 - Extract the zip file.
-- Locate the snake.love file and open it.(which requires users to have LÖVE installed)
+- Locate the snake.love file and open it.(which requires users to have LÖVE installed, Download it [here](https://love2d.org/))
 
 Alternate option :
 - Run the conf.lua file to configure the game/love file.
